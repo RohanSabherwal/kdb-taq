@@ -1,3 +1,6 @@
+
+//Second- Adding changes a second time to test
+
 // schema.q
 // Quote Table Schema
 quote:([]time:`timestamp$();sym:`symbol$();bid:`float$();ask:`float$();bsize:`long$();asize:`long$());
